@@ -1,0 +1,6 @@
+platform :ios, '8.0'
+target 'Weibo' do
+pod 'SVProgressHUD'
+pod 'AFNetworking'
+pod 'FMDB'
+end
